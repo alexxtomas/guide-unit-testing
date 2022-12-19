@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "THE QUIET GIRL",
+      "criticsConsensus": "A remarkable debut for writer-director Colm Bairéad, The Quiet Girl offers a deceptively simple reminder that the smallest stories can leave a large emotional impact.",
+      "DirectedBy": "Colm Bairead"
+    },
+    {
+      "id": "2",
+      "title": "HAPPENING",
+      "criticsConsensus": "A tough but rewarding watch, Happening puts a personal face on an impossibly difficult choice and its heart-rending aftermath.",
+      "DirectedBy": "Audrey Diwan"
+    }
+  ]
+}
